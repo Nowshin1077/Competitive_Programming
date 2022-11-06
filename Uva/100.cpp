@@ -1,0 +1,21 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+int main()
+{
+  int n;
+
+  cin >> n;
+
+  while (n==1)
+  {
+    break;
+  }
+  cout << n;
+
+
+   
+   
+
+   return 0;
+}
