@@ -1,0 +1,5 @@
+
+Token 1. 	- 	ID - 	abcd
+Token 2. 	- 	Num - 	1234
+Token 3. 	- 	ID - 	abc44
+Token 4. 	- 	Char - 	/*dsfsd*/
