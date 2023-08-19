@@ -1,2 +1,1 @@
-# CP
-Problem Solving
+# Contest and OJ problem solutions. 
